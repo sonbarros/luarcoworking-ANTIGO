@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'landingpage' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'azure' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', '' );
